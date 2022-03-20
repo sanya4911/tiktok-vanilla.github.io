@@ -1,0 +1,48 @@
+.monitor{
+	width: 165px;
+	background: url(monitor.png);
+	background-repeat: no-repeat;
+}
+.monitor p{
+margin: 0;
+padding: 0;	
+}
+.monitor_back{
+	background: #e2e2e2;
+	width: 167px;
+}
+.status{
+	text-align: center;
+	color: #090;
+}
+.name{
+	text-align: left;
+}
+.online{
+	width: 165px;
+	border: 1px dashed #e2e2e2;
+	margin: 5px 0;
+}
+.online p{
+margin: 0;
+padding: 0;	
+}
+.online ol{
+	margin: 0;
+	padding-left: 25px;
+}
+.left{
+	float: left;
+}
+.right{
+	float: right;;
+}
+.center{
+	text-align: center;
+}
+.name_server{
+	text-align:center;
+	width: 165px;
+	margin-bottom: 5px;
+	border: 1px solid #e2e2e2;
+}
