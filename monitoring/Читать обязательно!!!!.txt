@@ -1,8 +1,0 @@
-Перед установкой:
-1. У вас должен быть установлен плагин AuthMe и подключен к MySQL
-Настройка мониторинга:
-1. Распакуйте папку monitoring на хостинг. 
-2. Подключите AuthMe к MySQl (если не был подключен)
-3. Откройте файл config.class.php и отредактируйте его.
-4. Вставьте в <head><link rel="stylesheet" href="monitoring/style.css" type="text/css" /></head>
-5. В месте где вы хотите установить мониторинг вставьте <?require_once("monitoring/index.php")?>
